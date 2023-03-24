@@ -4,4 +4,5 @@ import "fmt"
 
 func Feat2() {
 	fmt.Println("Feature 2")
+	fmt.Println("Feature 3")
 }
